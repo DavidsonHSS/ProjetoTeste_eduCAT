@@ -1,0 +1,24 @@
+Documentação
+Como executar o Projeto:
+
+
+Acesse o Git para ter acesso ao projeto
+
+Com o Gerenciador_tarefas em andamento, no servidor virtual. 
+
+
+Acesse as URL com o código do servidor/ tarefas,/status, e /usuários. 
+
+
+Dentro da API RESTful, poderá criar tarefas com o nome da tarefa. Status, Categorias, data e hora de criação da tarefa. DELETAR a Tarefa, Editar a Tarefa, filtrar por STATUS da tarefa.
+
+
+Pode Criar Status, quanto for necessário.
+As categorias são fixas. 
+
+Usuário: 
+
+Nome:
+Email:
+CPF
+e Se o Usuário está ativo. 
